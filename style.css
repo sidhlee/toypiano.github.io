@@ -1,5 +1,11 @@
+:root {
+  --font-hand: Parisieene;
+}
+
 body {
+  font-family: var(--font-hand);
   background: black;
+  color: white;
   font: monospace;
   text-align: center;
 }
