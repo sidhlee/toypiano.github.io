@@ -1,0 +1,9 @@
+body {
+  background: black;
+  font: monospace;
+  text-align: center;
+}
+
+.heading {
+  margin: 3em;
+}
