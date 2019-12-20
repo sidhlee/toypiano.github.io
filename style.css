@@ -3,7 +3,6 @@
 }
 
 body {
-  font-family: var(--font-hand);
   background: black;
   color: white;
   font: monospace;
@@ -12,4 +11,5 @@ body {
 
 .heading {
   margin: 3em;
+  font-family: var(--font-hand);
 }
