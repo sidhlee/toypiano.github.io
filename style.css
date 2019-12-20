@@ -12,4 +12,5 @@ body {
 .heading {
   margin: 3em;
   font-family: var(--font-hand);
+  font-size: 5em;
 }
